@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    /* espaçamento externo do elementos */
+    padding: 0;
+    /* espaçamento interno do elemento (distancia entre o conteudo e a borda) */
+    box-sizing: border-box;
+    /* para trabalhar com largura/altura de maneira mais facil */
+}
+
+ul {                                    /* listas */
+    list-style: none;
+}
+
+a {                                     /* links */
+    text-decoration: none;
+    color: inherit;                     /* inherit- herda as cores q a gente colocar no css */
+}
+
